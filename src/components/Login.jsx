@@ -47,7 +47,7 @@ const Login = () => {
               id="email"
               type="email"
               onChange={(e) => setEmail(e.target.value)}
-              className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-thight focus:outline-none focus:border-blue-500 focus:ring focus:ring-blue-500 focus:ring-opacity-40"
+              className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-thight focus:outline-none focus:border-blue-500 focus:ring focus:ring-blue-300 focus:ring-opacity-40"
               placeholder="Email Yang Terdaftar"
               required
             />
